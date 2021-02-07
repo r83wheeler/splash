@@ -1,7 +1,8 @@
 #splash
 mark down header is ## SMAC lists 
 # create new project
-    1. creat the project folder in /sites
+
+    1. creat the project folder in /Sites
     2. cd into the project folder
     3. git init
 
